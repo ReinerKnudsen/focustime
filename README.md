@@ -1,5 +1,5 @@
 # FocusTime
 
-Trainingsproject by @mobinni with ZTM.
+Trainingsproject by [@mobinni](https://github.com/mobinni) with ZTM.
 
 Stack: React Native with Expo
